@@ -1,1 +1,1 @@
-Secondery Diagonal
+Not Null Matrix
