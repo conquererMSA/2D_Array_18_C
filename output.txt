@@ -1,1 +1,1 @@
-Not Null Matrix
+Not Scalar Matrix
